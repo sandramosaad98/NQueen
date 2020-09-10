@@ -15,6 +15,6 @@ bool solveNQUtil( int board[N][N], int column)
 			board[i][column] =0;
 		}
 	}
-}
+
 	return false; 
 }
