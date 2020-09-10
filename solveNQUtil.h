@@ -3,6 +3,6 @@
 
 using namespace std; 
 
-bool solveNQUtil(int board[N][N], int column)
+bool solveNQUtil(int board[N][N], int column);
 
 
